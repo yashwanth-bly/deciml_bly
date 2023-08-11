@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "942860456892",
+    "project_id": "deciml-bly",
+    "storage_bucket": "deciml-bly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942860456892:android:6dcf00b2448b4a851d51b9",
+        "android_client_info": {
+          "package_name": "com.deciml.bly.deciml_bly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942860456892-cd2cjkka3a1uosnk6gefqgkeq438vhvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKmImOT18z3pujtTSXhdJeBV8GoCf-xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942860456892-cd2cjkka3a1uosnk6gefqgkeq438vhvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942860456892-jrjbafrlvu3dui6dkbvloeve9rsrld9c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deciml.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942860456892:android:b10f990a0b8828421d51b9",
+        "android_client_info": {
+          "package_name": "com.example.deciml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942860456892-cd2cjkka3a1uosnk6gefqgkeq438vhvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKmImOT18z3pujtTSXhdJeBV8GoCf-xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942860456892-cd2cjkka3a1uosnk6gefqgkeq438vhvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942860456892-jrjbafrlvu3dui6dkbvloeve9rsrld9c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deciml.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
