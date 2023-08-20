@@ -15,11 +15,17 @@ class LoginScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text("Deciml",style: TextStyle(fontSize: 40,fontWeight: FontWeight.w600),),
-            const Text("By Yashwanth B L",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w300),),
-            const SizedBox(height: 40,),
-
-
+            const Text(
+              "Deciml",
+              style: TextStyle(fontSize: 40, fontWeight: FontWeight.w600),
+            ),
+            const Text(
+              "By Yashwanth B L",
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w300),
+            ),
+            const SizedBox(
+              height: 40,
+            ),
             const TextField(
               // obscureText: true,
               decoration: InputDecoration(
@@ -44,13 +50,16 @@ class LoginScreen extends StatelessWidget {
                 labelText: 'Password',
               ),
             ),
-            const SizedBox(height: 20,),
+            const SizedBox(
+              height: 20,
+            ),
             ElevatedButton(
                 onPressed: () {
                   ElevatedButton(
                       onPressed: () {
                         Navigator.of(context).push(
-                          MaterialPageRoute(builder: (_) => const LoginScreen()),
+                          MaterialPageRoute(
+                              builder: (_) => const LoginScreen()),
                         );
                       },
                       child: const Icon(Icons.login));
