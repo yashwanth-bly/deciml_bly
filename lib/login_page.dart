@@ -23,6 +23,7 @@ class LoginScreen extends StatelessWidget {
             const TextField(
               // obscureText: true,
               decoration: InputDecoration(
+                contentPadding: EdgeInsets.symmetric(horizontal: 15),
                 hintText: 'User Name',
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.zero,
